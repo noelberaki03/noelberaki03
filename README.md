@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @noelberaki03
-- 👀 I’m interested in Software Development, Data Science, Embedded Systems, and IoT.
+- 👀 I'm fascinated by Software Development, Data Science, Embedded Systems, and IoT.
 - 🌱 I’m currently learning Data Structures and Algorithms in C++.
 - 💞️ I’m working towards getting a Software Engineering internship.
 - 📫 How to reach me: noelberaki03@gmail.com
